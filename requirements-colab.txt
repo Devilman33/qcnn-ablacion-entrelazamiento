@@ -1,0 +1,11 @@
+# Librerías que Google Colab no trae. NumPy, SciPy, pandas, Matplotlib y scikit-learn se usan en la versión de Colab.
+# JAX 0.12 no funciona con PennyLane 0.45.1: no cambiar JAX sin probar.
+pennylane==0.45.1
+autoray==0.8.4
+jax==0.10.2
+jaxlib==0.10.2
+optax==0.2.8
+qiskit==2.6.2
+qiskit-aer==0.18.4
+qiskit-ibm-runtime==0.52.1
+pylatexenc==2.11
